@@ -7,7 +7,7 @@ layout: page
 aliases: /gsoc_2023/
 ---
 
-TARDIS is an open source radiative transfer code for simulating supernova spectra. We are dedicated to open source, reproducible science, as well as mentoring new members of the TARDIS community! TARDIS has participated in the Google Summer of Code (GSoC) for the last few years, and we highly encourage interested students to apply! If you are interested in TARDIS, follow the collaboration on <a href="https://twitter.com/tardis_sn" target="_blank">Twitter</a> and join us on <a href="https://gitter.im/tardis-sn/gsoc" target="_blank">Gitter</a>.
+TARDIS is an open source radiative transfer code for simulating supernova spectra. We are dedicated to open source, reproducible science, as well as mentoring new members of the TARDIS community! TARDIS has participated in the Google Summer of Code (GSoC) for the last few years, and we highly encourage interested students to apply! If you are interested in TARDIS, follow the collaboration on [Twitter](https://twitter.com/tardis_sn){target="_blank"} and join us on [Gitter](https://gitter.im/tardis-sn/gsoc) {:target="_blank"}.
 
 ### Apply to TARDIS GSoC
 
@@ -34,7 +34,7 @@ These were the projects that we selected for GSoC 2016 (a while ago but still a 
 
 We have compiled some background information about TARDIS and the science we do with it as well as some of our suggested projects for GSoC 2022 on the [Ideas Page](../ideas).
 
-You are also welcome to come up with your own project ideas and discuss them with the TARDIS mentors. We're here to help you become new open source developers, so don't be shy if you have any questions. The best way to get in contact is to chat with us on <a href="https://gitter.im/tardis-sn/gsoc" target="_blank">Gitter</a>.
+You are also welcome to come up with your own project ideas and discuss them with the TARDIS mentors. We're here to help you become new open source developers, so don't be shy if you have any questions. The best way to get in contact is to chat with us on [Gitter](https://gitter.im/tardis-sn/gsoc){:target="_blank"}.
 
 ### The Selection Process
 GSoC is about getting people involved and contributing to open source over the long-term. As such, we heavily weight our application selection process towards students that are interested in remaining involved in TARDIS and open source software development long after GSoC has ended.

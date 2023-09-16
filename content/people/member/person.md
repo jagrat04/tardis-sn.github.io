@@ -19,14 +19,14 @@ layout: page
 The following students were mentored
 | Year | Mentee | Project |
 |----------|----------|----------|
-| 2023 | Ayushi Daksh | <a href="https://summerofcode.withgoogle.com/programs/2023/projects/HxymUMRe" target="_blank" rel="noopener nofollow">Grotrian Diagram Visualisation<a> |
-| 2023 | Shikha Rathi | <a href="https://summerofcode.withgoogle.com/programs/2023/projects/tXpWIPLe" target="_blank" rel="noopener nofollow">Having Versioned Atomic Data Repositories<a> |
+| 2023 | Ayushi Daksh | [Grotrian Diagram Visualisation](https://summerofcode.withgoogle.com/programs/2023/projects/HxymUMRe){:target="_blank", rel="noopener nofollow"} |
+| 2023 | Shikha Rathi | [Having Versioned Atomic Data Repositories](https://summerofcode.withgoogle.com/programs/2023/projects/tXpWIPLe){:target="_blank", rel="noopener nofollow"} |
 
 ## GSoC participation
 
 | Year | Mentor                               | Project                                                                                                                                 |
 | ---- | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-| 2021 | Wolfgang Kerzendiorf, Jaladh Singhal | <a href="https://summerofcode.withgoogle.com/programs/2023/projects/HxymUMRe" target="_blank" rel="noopener nofollow">TARDIS Project<a> |
+| 2021 | Wolfgang Kerzendiorf, Jaladh Singhal | [TARDIS Project](https://summerofcode.withgoogle.com/programs/2023/projects/HxymUMRe){:target="_blank", rel="noopener nofollow"} |
 
 ## Other Experience
 

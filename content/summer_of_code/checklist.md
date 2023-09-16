@@ -5,19 +5,19 @@ draft: false
 layout: page
 ---
 
-If you are interested in participating, please contact us through <a href="https://gitter.im/tardis-sn/gsoc" target="_blank">Gitter</a> and introduce yourself. Members of the TARDIS collaboration will actively engage with questions on the Gitter!
+If you are interested in participating, please contact us through <a href="https://gitter.im/tardis-sn/gsoc" >[Gitter]{:target="_blank"} and introduce yourself. Members of the TARDIS collaboration will actively engage with questions on the Gitter!
 
 ### The Application Process
 
 1. Get familiar with TARDIS
-    - Go to the <a href="https://tardis-sn.github.io/tardis/" target="_blank">documentation</a> page.
-    - Install the software using the <a href="https://tardis-sn.github.io/tardis/installation.html" target="_blank">guide</a>.
+    - Go to the [documentation](https://tardis-sn.github.io/tardis/){:target="_blank"} page.
+    - Install the software using the [guide](https://tardis-sn.github.io/tardis/installation.html){:target="_blank"}.
     - Run the [example](https://tardis-sn.github.io/tardis/quickstart.html).
     - Get familiar with our [development model](https://tardis-sn.github.io/tardis/contributing/development/index.html) using Git and GitHub.
 2. Do the [TARDIS intro challenge](https://colab.research.google.com/drive/1ojC-CbdvhsnNum9DHxY-JUqlGiZGotDP?usp=sharing).
 3. Submit your completed [TARDIS challenge](https://forms.gle/ov1f71qogP36qLMc7).
 4. Check out the [Ideas Page](../ideas).
-5. Introduce yourself to us on <a href="https://gitter.im/tardis-sn/gsoc" target="_blank">Gitter</a>.
+5. Introduce yourself to us on [Gitter](https://gitter.im/tardis-sn/gsoc){:target="_blank"}.
 6. Start your [application](../guidelines).
 7. Select a project.
    - Many projects have additional specific instructions. They often involve a Pull Request.
